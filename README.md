@@ -5,4 +5,5 @@ Hi, I'm Jakub an i love airplanes. Try to learn a bit of github and programming 
 i'm Jakub an I try to learn a bit of GitHub. Love airplanes, try to grip with programming (python)
 
 1st change in main
+las chg
 
